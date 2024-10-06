@@ -12,4 +12,5 @@ valueDisplays.forEach((valueDisplay) => {
       clearInterval(counter);
     }
   }, duration);
-});
+}
+                     );
